@@ -8,5 +8,6 @@ String version=resource.getString("version");%>
 <body>
 <h2>War file deployed into amazon EC2 instance 
 "Success"</h2>
+<h3>Hi "Sajida" welcome to ansible first project without roles</h3>
 </body>
 </html>
